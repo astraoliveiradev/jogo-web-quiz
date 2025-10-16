@@ -1,0 +1,5 @@
+{
+  "name": "Mestre do Quiz",
+  "description": "Um mini-jogo onde um anfitrião pode criar um quiz com perguntas e respostas para outros jogarem. Os jogadores podem entrar em uma sala, escolher um avatar e nome, e competir pela maior pontuação.",
+  "requestFramePermissions": []
+}
